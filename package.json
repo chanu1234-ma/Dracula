@@ -1,0 +1,15 @@
+{
+  "name": "dracula-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Sinhala-English WhatsApp Chatbot using Node.js + OpenAI + Twilio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^4.0.0",
+    "twilio": "^4.11.0"
+  }
+}
